@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dmancloud.dinesh</groupId>
 	<artifactId>demoapp</artifactId>
-	<version>3.0.0-snapshot</version>
+	<version>3.0.0-SNAPSHOT</version>
 	<name>demoapp</name>
 	<description>Demo App for DevSecOps</description>
 	<properties>
